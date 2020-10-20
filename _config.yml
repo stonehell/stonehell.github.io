@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: stormstone8@qq.com
 description: "SH 的个人博客"
 keyword: "SH, stormstone, SH的博客, 博客, 个人网站, 互联网, AI"
-url: "https://stormstone.github.io"              # your host, for absolute URL
+url: "https://stonehell.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -70,7 +70,7 @@ netease_comment: false
 
 # Google Analytics
 ga_track_id: 'UA-103228337-1'            # Format: UA-xxxxxx-xx
-ga_domain: stormstone.github.io
+ga_domain: stonehell.github.io
 
 # cnzz
 cnzz_siteid: 1274886462

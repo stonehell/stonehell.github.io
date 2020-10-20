@@ -3,12 +3,12 @@
     "title": "Hua Blog",
     "author": "Hua <stormstone8@qq.com>",
     "version": "1.8.2",
-    "homepage": "http://stormstone.github.io",
+    "homepage": "http://stonehell.github.io",
     "repository": {
         "type": "git",
-        "url": "https://github.com/stormstone/stormstone.github.io"
+        "url": "https://github.com/stonehell/stonehell.github.io"
     },
-    "bugs": "https://github.com/stormstone/stormstone.github.io/issues",
+    "bugs": "https://github.com/stonehell/stonehell.github.io/issues",
     "devDependencies": {
         "grunt": "^1.1.0",
         "grunt-banner": "~0.2.3",
