@@ -1,13 +1,13 @@
 ---
 layout:     post
-title:      "牛客网剑指offer编程练习"
+title:      "牛客网剑指offer编程练习(Python)"
 date:       2018-03-01 22:20:00
 author:     "SH"
 header-img: "img/post_bg_headset.jpg"
 header-mask: 0.3
 catalog:    true
 tags:
-    - 数据结构
+    - LeetCode
 ---
 
 牛客网编程练习-剑指offer，python实现。

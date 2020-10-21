@@ -7,8 +7,7 @@ header-img: "img/post_bg_headset.jpg"
 header-mask: 0.3
 catalog:    true
 tags:
-    - 数据结构
-    - 编程练习
+    - LeetCode
 ---
 
 牛客网编程练习-剑指offer，语言：c++11（clang++ 3.9）。
