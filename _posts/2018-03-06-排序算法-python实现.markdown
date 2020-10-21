@@ -10,6 +10,10 @@ tags:
     - LeetCode
 ---
 
+
+![各排序对比](/img/LeetCode/【排序】各排序对比.jpg)
+
+
 ## **一、冒泡排序**
 
 基本思想是:两两比较相邻记录的关键字,如果反序则交换
@@ -182,9 +186,6 @@ def partition(array, left, right):
     array[left] = tmp
     return left
 ```
-
-
-![avatar](/img/dog-2018/【排序】各排序对比.jpg)
 
 注：上述7种都是比较排序，下面3种都是非比较排序，理论上可以达到O(n)，比比较排序要快，但是这3种都是有其应用背景才能发挥作用的，否则适得其反。
 
