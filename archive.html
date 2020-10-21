@@ -67,9 +67,10 @@ https://github.com/kitian616/jekyll-TeXt-theme
 			{%- endif -%}
 
 				<div class="post-preview item" data-tags="{{ _tags }}">
+					{{ _article.date | date: "%B %-d" }}
 				    <a href="{{ _article.url | prepend: site.baseurl }}">
 				        <h2 class="post-title">
-                            {{ _article.date | date: "%B %-d" }}    {{ _article.title }}
+                            {{ _article.title }}
 				        </h2>
 				    </a>
 					<hr>
