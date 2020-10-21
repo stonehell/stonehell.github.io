@@ -33,7 +33,7 @@ tags:
 
 ##### 单体应用六边形架构：
 
-![img](/img/spring/六角形应用.png)
+![img](/img/SpringCloud/六角形应用.png)
 
 #### 微服务
 
@@ -77,7 +77,7 @@ tags:
 
 ​	Building distributed systems doesn't need to be complex and error-prone. Spring Cloud offers a simple and accessible programming model to the most common distributed system patterns, helping developers build resilient, reliable, and coordinated applications. Spring Cloud is built on top of Spring Boot, making it easy for developers to get started and become productive quickly.
 
-![img](/img/spring/diagram-distributed-systems.svg)
+![img](/img/SpringCloud/diagram-distributed-systems.svg)
 
 
 
@@ -144,7 +144,7 @@ springcloud是微服务架构的集大成者，将一系列优秀的组件进行
 #### 1.1 Eureka
 作用：实现服务治理（服务注册与发现）。
 
-![img](/img/spring/Eureka.png)
+![img](/img/SpringCloud/Eureka.png)
 
 由两个组件组成：Eureka服务端和Eureka客户端。
 Eureka服务端用作服务注册中心。支持集群部署。
@@ -160,7 +160,7 @@ Eureka 的自我保护模式：当注册中心每分钟收到心跳续约数量�
 
 作用：主要提供客户侧的软件负载均衡算法。
 
-![img](/img/spring/Ribbon.png)
+![img](/img/SpringCloud/Ribbon.png)
 
 Ribbon是一个基于HTTP和TCP的客户端负载均衡工具，它基于Netflix Ribbon实现。通过Spring Cloud的封装，可以让我们轻松地将面向服务的REST模版请求自动转换成客户端负载均衡的服务调用。
 
@@ -170,7 +170,7 @@ Ribbon是一个基于HTTP和TCP的客户端负载均衡工具，它基于Netflix
 
 作用：断路器，保护系统，控制故障范围。
 
-![img](/img/spring/Hystrix.png)
+![img](/img/SpringCloud/Hystrix.png)
 
 在微服务架构中，服务与服务之间可以相互调用（RPC），在Spring Cloud可以用RestTemplate+Ribbon和Feign来调用。为了保证其高可用，单个服务通常会集群部署。由于网络原因或者自身的原因，如果单个服务出现问题，调用这个服务就会出现线程阻塞，此时若有大量的请求涌入，Servlet容器的线程资源会被消耗完毕，导致服务瘫痪。服务与服务之间的依赖性，故障会传播，会对整个微服务系统造成灾难性的严重后果，这就是服务故障的“雪崩”效应。
 
@@ -186,7 +186,7 @@ Feign 默认集成了 Ribbon，并与Eureka结合，默认实现了负载均衡�
 
 作用：api网关，路由，负载均衡等多种作用
 
-![img](/img/spring/Zuul.png)
+![img](/img/SpringCloud/Zuul.png)
 
 类似nginx，反向代理的功能，不过netflix自己增加了一些配合其他组件的特性。
 
@@ -212,7 +212,7 @@ zuul:
 
 作用：配置管理
 
-![img](/img/spring/Config.png)
+![img](/img/SpringCloud/Config.png)
 
 SpringCloud Config提供服务器端和客户端。服务器存储后端的默认实现使用git，因此它轻松支持标签版本的配置环境，以及可以访问用于管理内容的各种工具。
 
