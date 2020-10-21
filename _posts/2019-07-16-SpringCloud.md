@@ -2,7 +2,7 @@
 layout:     post
 title:      "Spring Cloud基础学习"
 date:       2019-07-16 15:00:00
-author:     "StoneHell"
+author:     "SH"
 header-img: "img/post_bg_headset.jpg"
 header-mask: 0.3
 catalog:    true
