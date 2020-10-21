@@ -4,7 +4,7 @@ title:      "centos7作web服务器搭建环境(jdk1.8、Tomcat7.0、MySQL5.7)"
 subtitle:   "centos7 for web server build environment (jdk1.8, Tomcat7.0, MySQL5.7)"
 date:       2017-09-23 21:00:00
 author:     "SH"
-header-img: "img/about-bg.jpg"
+header-img: "img/post_bg_headset.jpg"
 header-mask: 0.3
 catalog:    true
 tags:

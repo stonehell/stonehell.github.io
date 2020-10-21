@@ -1,10 +1,9 @@
 ---
 layout:     post
 title:      "Linux vim的一些常用命令"
-subtitle:   "Some commonly used commands of Linux vim"
 date:       2017-07-28 16:00:00
 author:     "SH"
-header-img: "img/in-post/vim.jpg"
+header-img: "img/post_bg_headset.jpg"
 header-mask: 0.3
 catalog:    true
 tags:

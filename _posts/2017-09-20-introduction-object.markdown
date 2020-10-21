@@ -4,7 +4,7 @@ title:      "对象导论"
 subtitle:   "thinking in Java first chapter"
 date:       2017-09-20 16:00:00
 author:     "SH"
-header-img: "img/about-bg.jpg"
+header-img: "img/post_bg_headset.jpg"
 header-mask: 0.3
 catalog:    true
 tags:

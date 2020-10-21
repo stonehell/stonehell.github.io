@@ -4,7 +4,7 @@ title:      "TensorFlow学习笔记（2）--神经网络优化"
 subtitle:   "learn  TensorFlow second"
 date:       2017-12-11 16:00:00
 author:     "SH"
-header-img: "img/ss01.jpg"
+header-img: "img/post_bg_headset.jpg"
 header-mask: 0.3
 catalog:    true
 tags:

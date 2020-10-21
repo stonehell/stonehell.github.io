@@ -4,7 +4,7 @@ title:      "TensorFlow学习笔记（4）--卷积神经网络"
 subtitle:   "learn TensorFlow fourth"
 date:       2017-12-17 21:00:00
 author:     "SH"
-header-img: "img/ss01.jpg"
+header-img: "img/post_bg_headset.jpg"
 header-mask: 0.3
 catalog:    true
 tags:

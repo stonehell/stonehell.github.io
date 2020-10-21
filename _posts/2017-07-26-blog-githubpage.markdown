@@ -1,14 +1,12 @@
 ---
 layout:     post
 title:      "立马快速打造自己的个人博客"
-subtitle:   "Make A Blog Of GitHub Pages And Use Jekyll Template From Other People"
 date:       2017-07-26 21:00:00
 author:     "SH"
-header-img: "img/in-post/githubpages2.png"
+header-img: "img/post_bg_headset.jpg"
 header-mask: 0.3
 catalog:    true
 tags:
-    - Blog
 ---
 
 

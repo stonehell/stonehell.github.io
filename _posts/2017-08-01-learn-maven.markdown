@@ -4,7 +4,7 @@ title:      "项目管理工具--Maven 学习笔记"
 subtitle:   "Project management tools--Maven study notes"
 date:       2017-08-01 17:00:00
 author:     "SH"
-header-img: "img/in-post/maven.jpg"
+header-img: "img/post_bg_headset.jpg"
 header-mask: 0.3
 catalog:    true
 tags:

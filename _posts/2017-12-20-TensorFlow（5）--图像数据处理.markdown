@@ -4,7 +4,7 @@ title:      "TensorFlow学习笔记（5）--图像数据处理"
 subtitle:   "learn TensorFlow fifth"
 date:       2017-12-20 16:00:00
 author:     "SH"
-header-img: "img/ss01.jpg"
+header-img: "img/post_bg_headset.jpg"
 header-mask: 0.3
 catalog:    true
 tags:

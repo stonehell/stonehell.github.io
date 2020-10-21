@@ -4,7 +4,7 @@ title:      "TensorFlow学习笔记（3）--MINIST数字识别"
 subtitle:   "learn  TensorFlow third"
 date:       2017-12-14 17:30:00
 author:     "SH"
-header-img: "img/ss01.jpg"
+header-img: "img/post_bg_headset.jpg"
 header-mask: 0.3
 catalog:    true
 tags:

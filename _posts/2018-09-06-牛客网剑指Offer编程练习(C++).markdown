@@ -4,7 +4,7 @@ title:      "牛客网剑指offer编程练习（C++）"
 subtitle:   "NiuKe-Programming exercises"
 date:       2018-09-06 22:35:00
 author:     "SH"
-header-img: "img/post-bg-alitrip.jpg"
+header-img: "img/post_bg_headset.jpg"
 header-mask: 0.3
 catalog:    true
 tags:
