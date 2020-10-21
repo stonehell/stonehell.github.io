@@ -76,8 +76,8 @@ jekyll官网：[http://jekyll.com.cn/](http://jekyll.com.cn/)
 
 其实也不用自己去写，直接去GitHub找几个好的模板，修改修改，就可以了，呵呵呵！(σﾟ∀ﾟ)σ..:*☆哎哟不错哦。
 
-我的博客[Storm Blog](www.stormstone.xin) copy from[Hux Blog](http://huangxuan.me/)。
-github地址：[http://github.com/Huxpro/huxpro.github.io](http://github.com/Huxpro/huxpro.github.io)。是不是长得一样，哈哈哈哈！
+我的博客[SH Blog](https://stonehell.github.io/) copy from[Hux Blog](http://huangxuan.me/)。
+github地址：[http://github.com/Huxpro/huxpro.github.io](http://github.com/Huxpro/huxpro.github.io)。
 
 至于项目里的各个文件的含义，jekyll语法，就自己慢慢摸索咯，我也不造啊！
 

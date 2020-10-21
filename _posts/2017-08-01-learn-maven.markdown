@@ -12,11 +12,12 @@ tags:
 
 ## 什么是Maven
 
-​	Maven是一个项目管理工具，它包含了一个项目对象模型 (Project Object Model)，一组标准集合，一个项目生命周期(Project Lifecycle)，一个依赖管理系统(Dependency Management System)，和用来运行定义在生命周期阶段(phase)中插件(plugin)目标(goal)的逻辑。当你使用Maven的时候，你用一个明确定义的项目对象模型来描述你的项目，然后Maven可以应用横切的逻辑，这些逻辑来自一组共享的（或者自定义的）插件。
+Maven是一个项目管理工具，它包含了一个项目对象模型 (Project Object Model)，一组标准集合，一个项目生命周期(Project Lifecycle)，
+一个依赖管理系统(Dependency Management System)，和用来运行定义在生命周期阶段(phase)中插件(plugin)目标(goal)的逻辑。
+当你使用Maven的时候，你用一个明确定义的项目对象模型来描述你的项目，然后Maven可以应用横切的逻辑，这些逻辑来自一组共享的（或者自定义的）插件。
 
 ## 常用命令编辑
 - mvn archetype：generate 创建Maven项目（create过时）
-
 - mvn compile 编译源代码
 - mvn deploy 发布项目
 - mvn test-compile 编译测试源代码
@@ -114,4 +115,5 @@ pom.xml：
 
 
 ## 总结
-​	Maven2.0 有着许多实用的特点，并且完成任务十分出色。Maven中最值得称赞的地方就是使用了标准的目录结构和部署。这就使得开发人员能够适应不同的项目，并且不用学习任何结构方面新的东西，也不用掌握特殊的指令来构建结构。
+Maven2.0 有着许多实用的特点，并且完成任务十分出色。Maven中最值得称赞的地方就是使用了标准的目录结构和部署。
+这就使得开发人员能够适应不同的项目，并且不用学习任何结构方面新的东西，也不用掌握特殊的指令来构建结构。
