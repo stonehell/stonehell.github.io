@@ -1,7 +1,6 @@
 ---
 layout:     post
 title:      "TensorFlow学习笔记（3）--MINIST数字识别"
-subtitle:   "learn  TensorFlow third"
 date:       2017-12-14 17:30:00
 author:     "SH"
 header-img: "img/post_bg_headset.jpg"

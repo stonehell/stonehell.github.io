@@ -1,7 +1,6 @@
 ---
 layout:     post
 title:      "DeeCamp 2018"
-subtitle:   "记 DeeCamp 2018 人工智能训练营"
 date:       2018-09-02 21:00:00
 author:     "SH"
 header-img: "img/post_bg_headset.jpg"

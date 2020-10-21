@@ -1,7 +1,6 @@
 ---
 layout:     post
 title:      "TensorFlow学习笔记（1）--基本概念"
-subtitle:   "learn first TensorFlow"
 date:       2017-12-10 21:00:00
 author:     "SH"
 header-img: "img/post_bg_headset.jpg"

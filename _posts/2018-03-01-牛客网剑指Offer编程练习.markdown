@@ -1,7 +1,6 @@
 ---
 layout:     post
 title:      "牛客网剑指offer编程练习"
-subtitle:   "NiuKe-Programming exercises"
 date:       2018-03-01 22:20:00
 author:     "SH"
 header-img: "img/post_bg_headset.jpg"

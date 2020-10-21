@@ -1,7 +1,6 @@
 ---
 layout:     post
 title:      "项目管理工具--Maven 学习笔记"
-subtitle:   "Project management tools--Maven study notes"
 date:       2017-08-01 17:00:00
 author:     "SH"
 header-img: "img/post_bg_headset.jpg"

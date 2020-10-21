@@ -1,7 +1,6 @@
 ---
 layout:     post
 title:      "Spring Cloud基础学习"
-subtitle:   "Spring Cloud基础学习"
 date:       2019-07-09 15:00:00
 author:     "StoneHell"
 header-img: "img/post_bg_headset.jpg"
