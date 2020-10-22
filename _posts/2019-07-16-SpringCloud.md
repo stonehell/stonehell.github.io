@@ -87,7 +87,7 @@ springcloud是微服务架构的集大成者，将一系列优秀的组件进行
 
 **spring cloud组件：**
 
-![img](/img/spring/springcloud_组件.png)
+![img](/img/SpringCloud/springcloud_组件.png)
 
 
 

@@ -8,11 +8,13 @@
 
                 <p class="copyright text-muted">
                     Copyright &copy; {{ site.title }} {{ site.time | date: '%Y' }} |
+                    <!-- github star -->
+                    <!--
                     <iframe style="margin-left: 2px; margin-bottom:-5px;" frameborder="0" scrolling="0" width="100px"
                         height="20px"
                         src="https://ghbtns.com/github-btn.html?user=stonehell&repo=stonehell.github.io&type=star&count=true">
-                    </iframe>
-                    |
+                    </iframe> |
+                    -->
                     <!-- cnzz -->
                     <script type="text/javascript">
                         var cnzz_protocol = (("https:" == document.location.protocol) ? "https://" : "http://");
@@ -27,20 +29,31 @@
 <!-- jQuery -->
 <script src="{{ "/js/jquery.min.js " | prepend: site.baseurl }}"></script>
 
-<!-- Bootstrap Core JavaScript -->
+<!--
+Bootstrap
+Core
+JavaScript -->
 <!-- Currently, only navbar scroll-down effect at desktop still depends on this -->
-<script src="{{ "/js/bootstrap.min.js " | prepend: site.baseurl }}"></script>
+< script
+src = "{{ " / js / bootstrap.min.js
+" | prepend: site.baseurl }}" ></script>
 
 <!-- Custom Theme JavaScript -->
 <script src="{{ "/js/hux-blog.min.js " | prepend: site.baseurl }}"></script>
 
 <!-- Simple Jekyll Search -->
-<script src="{{ "/js/simple-jekyll-search.min.js" | prepend: site.baseurl }}"></script>
+<
+script
+src = "{{ " / js / simple - jekyll - search.min.js
+" | prepend: site.baseurl }}" ></script>
 
 <!-- Service Worker -->
 {% if site.service-worker %}
 <script src="{{ "/js/snackbar.js " | prepend: site.baseurl }}"></script>
-<script src="{{ "/js/sw-registration.js " | prepend: site.baseurl }}"></script>
+<
+script
+src = "{{ " / js / sw - registration.js
+" | prepend: site.baseurl }}" ></script>
 {% endif %}
 
 <!-- async load function -->
@@ -50,7 +63,11 @@
             o = d.createElement(t),
             s = d.getElementsByTagName(t)[0];
         o.src = u;
-        if (c) { o.addEventListener('load', function (e) { c(null, e); }, false); }
+        if (c) {
+            o.addEventListener('load', function (e) {
+                c(null, e);
+            }, false);
+        }
         s.parentNode.insertBefore(o, s);
     }
 </script>
@@ -102,7 +119,7 @@
     async('{{ "/js/jquery.tagcloud.js" | prepend: site.baseurl }}', function () {
         $.fn.tagcloud.defaults = {
             //size: {start: 1, end: 1, unit: 'em'},
-            color: { start: '#bbbbee', end: '#2f93b4' },
+            color: {start: '#bbbbee', end: '#2f93b4'},
         };
         $('#tag_cloud a').tagcloud();
     })
@@ -128,10 +145,15 @@
 
     // Originial
     (function (i, s, o, g, r, a, m) {
-        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+        i['GoogleAnalyticsObject'] = r;
+        i[r] = i[r] || function () {
             (i[r].q = i[r].q || []).push(arguments)
-        }, i[r].l = 1 * new Date(); a = s.createElement(o),
-            m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        }, i[r].l = 1 * new Date();
+        a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0];
+        a.async = 1;
+        a.src = g;
+        m.parentNode.insertBefore(a, m)
     })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
 
     ga('create', _gaId, _gaDomain);
@@ -230,7 +252,9 @@
     var $select = document.querySelector("select");
 
     // Changes at v1.8.1: include lang flag as a url query. This interop well with catalog hash anchors.
-    function getLang() { return new URLSearchParams(document.location.search).get("lang") }
+    function getLang() {
+        return new URLSearchParams(document.location.search).get("lang")
+    }
 
     function setLang(newLang) {
         var params = new URLSearchParams(document.location.search)
