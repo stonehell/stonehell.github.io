@@ -77,7 +77,7 @@ tags:
 
 ## 链表
 
-- [206.反转链表【简单】【链表】](https://leetcode-cn.com/problems/reverse-linked-list/)
+#### [206.反转链表【简单】【链表】](https://leetcode-cn.com/problems/reverse-linked-list/)
 
 反转一个单链表。
 
@@ -106,7 +106,7 @@ public class ReverseLinkedList {
 
 
 
-- [92. 反转链表 II【中等】【链表】](https://leetcode-cn.com/problems/reverse-linked-list-ii/)
+#### [92. 反转链表 II【中等】【链表】](https://leetcode-cn.com/problems/reverse-linked-list-ii/)
 
 反转从位置 m 到 n 的链表。请使用一趟扫描完成反转。
 
@@ -160,7 +160,7 @@ public class ReverseLinkedList2 {
 
 
 
-- [160.相交链表【简单】【链表】](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)
+#### [160.相交链表【简单】【链表】](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)
 
 编写一个程序，找到两个单链表相交的起始节点。
 
@@ -189,7 +189,7 @@ public class IntersectionOfTwoLinkedLists {
 
 
 
-- [141.环形链表【简单】【链表、双指针】](https://leetcode-cn.com/problems/linked-list-cycle/)
+#### [141.环形链表【简单】【链表、双指针】](https://leetcode-cn.com/problems/linked-list-cycle/)
 
 给定一个链表，判断链表中是否有环。
 
@@ -225,7 +225,7 @@ public class LinkedListCycle {
 
 
 
-- [142.环形链表 II【中等】【链表、双指针】](https://leetcode-cn.com/problems/linked-list-cycle-ii/)
+#### [142.环形链表 II【中等】【链表、双指针】](https://leetcode-cn.com/problems/linked-list-cycle-ii/)
 
 给定一个链表，返回链表开始入环的第一个节点。 如果链表无环，则返回 `null`。
 
@@ -269,7 +269,7 @@ public class LinkedListCycle2 {
 
 
 
-- [86.分隔链表【中等】【链表、双指针】](https://leetcode-cn.com/problems/partition-list/)
+#### [86.分隔链表【中等】【链表、双指针】](https://leetcode-cn.com/problems/partition-list/)
 
 给定一个链表和一个特定值 *x*，对链表进行分隔，使得所有小于 *x* 的节点都在大于或等于 *x* 的节点之前。你应当保留两个分区中每个节点的初始相对位置。
 
@@ -308,7 +308,7 @@ public class PartitionList {
 
 
 
-- [138.复制带随机指针的链表【中等】【哈希表、链表】](https://leetcode-cn.com/problems/copy-list-with-random-pointer/)
+#### [138.复制带随机指针的链表【中等】【哈希表、链表】](https://leetcode-cn.com/problems/copy-list-with-random-pointer/)
 
 给定一个链表，每个节点包含一个额外增加的随机指针，该指针可以指向链表中的任何节点或空节点。要求返回这个链表的 深拷贝。 
 
@@ -355,7 +355,7 @@ public class CopyListWithRandomPointer {
 
 
 
-- [21.合并两个有序链表【简单】【链表】](https://leetcode-cn.com/problems/merge-two-sorted-lists/)
+#### [21.合并两个有序链表【简单】【链表】](https://leetcode-cn.com/problems/merge-two-sorted-lists/)
 
 将两个升序链表合并为一个新的升序链表并返回。新链表是通过拼接给定的两个链表的所有节点组成的。 
 
@@ -389,7 +389,7 @@ public class MergeTwoSortedLists {
 
 
 
-- [23.合并K个排序链表【困难】【堆、链表、分治算法】](https://leetcode-cn.com/problems/merge-k-sorted-lists/)
+#### [23.合并K个排序链表【困难】【堆、链表、分治算法】](https://leetcode-cn.com/problems/merge-k-sorted-lists/)
 
 合并 *k* 个排序链表，返回合并后的排序链表。
 
@@ -428,7 +428,7 @@ public class MergeKSortedLists {
 
 
 ## 栈、队列、堆
-- [225.用队列实现栈【简单】【栈、设计】](https://leetcode-cn.com/problems/implement-stack-using-queues/)
+#### [225.用队列实现栈【简单】【栈、设计】](https://leetcode-cn.com/problems/implement-stack-using-queues/)
 
 使用队列实现栈的下列操作：
 
@@ -473,7 +473,7 @@ public class ImplementStackUsingQueues {
 
 
 
-- [232.用栈实现队列【简单】【栈、设计】](https://leetcode-cn.com/problems/implement-queue-using-stacks/)
+#### [232.用栈实现队列【简单】【栈、设计】](https://leetcode-cn.com/problems/implement-queue-using-stacks/)
 
 使用栈实现队列的下列操作：
 
@@ -531,7 +531,7 @@ public class ImplementQueueUsingStacks {
 
 
 
-- [155.最小栈【简单】【栈、设计】](https://leetcode-cn.com/problems/min-stack/)
+#### [155.最小栈【简单】【栈、设计】](https://leetcode-cn.com/problems/min-stack/)
 
 设计一个支持 push ，pop ，top 操作，并能在常数时间内检索到最小元素的栈。
 
@@ -586,7 +586,7 @@ public class MinStack {
 
 
 
-- [224.基本计数器【困难】【栈、数学】](https://leetcode-cn.com/problems/basic-calculator/)
+#### [224.基本计数器【困难】【栈、数学】](https://leetcode-cn.com/problems/basic-calculator/)
 
 实现一个基本的计算器来计算一个简单的字符串表达式的值。
 
@@ -645,7 +645,7 @@ public class BasicCalculator {
 
 
 
-- [215.数组中的第K个最大元素【中等】【堆、分治算法】](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)
+#### [215.数组中的第K个最大元素【中等】【堆、分治算法】](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)
 
 在未排序的数组中找到第 **k** 个最大的元素。请注意，你需要找的是数组排序后的第 k 个最大的元素，而不是第 k 个不同的元素。
 
@@ -676,7 +676,7 @@ public class KthLargestElementInAnArray {
 
 
 
-- [295.数据流的中位数【困难】【堆、设计】](https://leetcode-cn.com/problems/find-median-from-data-stream/)
+#### [295.数据流的中位数【困难】【堆、设计】](https://leetcode-cn.com/problems/find-median-from-data-stream/)
 
 设计一个支持以下两种操作的数据结构：
 
@@ -728,7 +728,7 @@ public class FindMedianFromDataStream {
 
 
 ## 贪心
-- [455.分发饼干【简单】【贪心算法】](https://leetcode-cn.com/problems/assign-cookies/)
+#### [455.分发饼干【简单】【贪心算法】](https://leetcode-cn.com/problems/assign-cookies/)
 
 假设你是一位很棒的家长，想要给你的孩子们一些小饼干。但是，每个孩子最多只能给一块饼干。对每个孩子 i ，都有一个胃口值 gi ，这是能让孩子们满足胃口的饼干的最小尺寸；并且每块饼干 j ，都有一个尺寸 sj 。如果 sj >= gi ，我们可以将这个饼干 j 分配给孩子 i ，这个孩子会得到满足。你的目标是尽可能满足越多数量的孩子，并输出这个最大数值。
 
@@ -758,7 +758,7 @@ public class AssignCookies {
 
 
 
-- [376.摆动序列【中等】【贪心算法、动态规划】](https://leetcode-cn.com/problems/wiggle-subsequence/)
+#### [376.摆动序列【中等】【贪心算法、动态规划】](https://leetcode-cn.com/problems/wiggle-subsequence/)
 
 如果连续数字之间的差严格地在正数和负数之间交替，则数字序列称为摆动序列。第一个差（如果存在的话）可能是正数或负数。少于两个元素的序列也是摆动序列。
 
@@ -793,7 +793,7 @@ public class WiggleSubsequence {
 
 
 
-- [402.移掉K位数字【中等】【栈、贪心算法】](https://leetcode-cn.com/problems/remove-k-digits/)
+#### [402.移掉K位数字【中等】【栈、贪心算法】](https://leetcode-cn.com/problems/remove-k-digits/)
 
 给定一个以字符串表示的非负整数 num，移除这个数中的 k 位数字，使得剩下的数字最小。
 
@@ -840,7 +840,7 @@ public class RemoveKDigits {
 
 
 
-- [55.跳跃游戏【中等】【贪心算法、数组】](https://leetcode-cn.com/problems/jump-game/)
+#### [55.跳跃游戏【中等】【贪心算法、数组】](https://leetcode-cn.com/problems/jump-game/)
 
 给定一个非负整数数组，你最初位于数组的第一个位置。数组中的每个元素代表你在该位置可以跳跃的最大长度。判断你是否能够到达最后一个位置。
 
@@ -871,7 +871,7 @@ class JumpGame {
 
 
 
-- [45.跳跃游戏2【困难】【贪心算法、数组】](https://leetcode-cn.com/problems/jump-game-ii/)
+#### [45.跳跃游戏2【困难】【贪心算法、数组】](https://leetcode-cn.com/problems/jump-game-ii/)
 
 给定一个非负整数数组，你最初位于数组的第一个位置。数组中的每个元素代表你在该位置可以跳跃的最大长度。你的目标是使用最少的跳跃次数到达数组的最后一个位置。
 
@@ -899,7 +899,7 @@ class JumpGame2 {
 
 
 
-- [452.用最少数量的箭引爆气球【中等】【贪心算法】](https://leetcode-cn.com/problems/minimum-number-of-arrows-to-burst-balloons/)
+#### [452.用最少数量的箭引爆气球【中等】【贪心算法】](https://leetcode-cn.com/problems/minimum-number-of-arrows-to-burst-balloons/)
 
 在二维空间中有许多球形的气球。对于每个气球，提供的输入是水平方向上，气球直径的开始和结束坐标。由于它是水平的，所以y坐标并不重要，因此只要知道开始和结束的x坐标就足够了。开始坐标总是小于结束坐标。平面内最多存在104个气球。
 
@@ -940,7 +940,7 @@ class MinimumNumberOfArrowsToBurstBalloons {
 
 
 
-- [871.最低加油次数【困难】【堆、动态规划】](https://leetcode-cn.com/problems/minimum-number-of-refueling-stops/)
+#### [871.最低加油次数【困难】【堆、动态规划】](https://leetcode-cn.com/problems/minimum-number-of-refueling-stops/)
 
 汽车从起点出发驶向目的地，该目的地位于出发位置东面 target 英里处。沿途有加油站，每个 station[i] 代表一个加油站，它位于出发位置东面 station[i][0] 英里处，并且有 station[i][1] 升汽油。假设汽车油箱的容量是无限的，其中最初有 startFuel 升燃料。它每行驶 1 英里就会用掉 1 升汽油。当汽车到达加油站时，它可能停下来加油，将所有汽油从加油站转移到汽车中。为了到达目的地，汽车所必要的最低加油次数是多少？如果无法到达目的地，则返回 -1 。
 
@@ -1005,7 +1005,7 @@ class MinimumNumberOfRefuelingStops {
 
 
 
-- [78.求子集【中等】【位运算、数组、回溯算法】](https://leetcode-cn.com/problems/subsets/)
+#### [78.求子集【中等】【位运算、数组、回溯算法】](https://leetcode-cn.com/problems/subsets/)
 
 给定一组**不含重复元素**的整数数组 *nums*，返回该数组所有可能的子集（幂集）。
 
@@ -1091,7 +1091,7 @@ class Subsets {
 
 
 
-- [90.求子集2【中等】【数组、回溯算法】](https://leetcode-cn.com/problems/subsets-ii/)
+#### [90.求子集2【中等】【数组、回溯算法】](https://leetcode-cn.com/problems/subsets-ii/)
 
 给定一个可能包含重复元素的整数数组 ***nums***，返回该数组所有可能的子集（幂集）。
 
@@ -1188,7 +1188,7 @@ class Subsets2 {
 
 
 
-- [40.组合总和2【中等】【数组、回溯算法】](https://leetcode-cn.com/problems/combination-sum-ii/)
+#### [40.组合总和2【中等】【数组、回溯算法】](https://leetcode-cn.com/problems/combination-sum-ii/)
 
 给定一个数组 candidates 和一个目标数 target ，找出 candidates 中所有可以使数字和为 target 的组合。
 
@@ -1235,7 +1235,7 @@ class CombinationSum2 {
 
 
 
-- [22.括号生成【中等】【字符串、回溯算法】](https://leetcode-cn.com/problems/generate-parentheses/)
+#### [22.括号生成【中等】【字符串、回溯算法】](https://leetcode-cn.com/problems/generate-parentheses/)
 
 数字 *n* 代表生成括号的对数，请你设计一个函数，用于能够生成所有可能的并且 **有效的** 括号组合。
 
@@ -1273,7 +1273,7 @@ class GenerateParentheses {
 
 
 
-- [51.N皇后【困难】【回溯算法】](https://leetcode-cn.com/problems/n-queens/)
+#### [51.N皇后【困难】【回溯算法】](https://leetcode-cn.com/problems/n-queens/)
 
 *n* 皇后问题研究的是如何将 *n* 个皇后放置在 *n*×*n* 的棋盘上，并且使皇后彼此之间不能相互攻击。给定一个整数 n，返回所有不同的 n 皇后问题的解决方案。
 
@@ -1356,7 +1356,7 @@ class NQueens {
 
 
 
-- [315.计算右侧小于当前元素的个数【困难】【排序、树状数组、线段树、二分查找、分治算法】](https://leetcode-cn.com/problems/count-of-smaller-numbers-after-self/)
+#### [315.计算右侧小于当前元素的个数【困难】【排序、树状数组、线段树、二分查找、分治算法】](https://leetcode-cn.com/problems/count-of-smaller-numbers-after-self/)
 
 给定一个整数数组 nums，按要求返回一个新数组 counts。数组 counts 有该性质： counts[i] 的值是  nums[i] 右侧小于 nums[i] 的元素的数量。
 
@@ -1433,7 +1433,7 @@ class CountOfSmallerNumbersAfterSelf {
 
 
 ## 二叉树与图
-- [113.路径之和2【中等】【树、深度优先搜索】](https://leetcode-cn.com/problems/path-sum-ii/)
+#### [113.路径之和2【中等】【树、深度优先搜索】](https://leetcode-cn.com/problems/path-sum-ii/)
 
 给定一个二叉树和一个目标和，找到所有从根节点到叶子节点路径总和等于给定目标和的路径。
 
@@ -1468,7 +1468,7 @@ class PathSum2 {
 
 
 
-- [236.二叉树的最近公共祖先【中等】【树】](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/)
+#### [236.二叉树的最近公共祖先【中等】【树】](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/)
 
 给定一个二叉树, 找到该树中两个指定节点的最近公共祖先。
 
@@ -1506,7 +1506,7 @@ class LowestCommonAncestorOfABinaryTree {
 
 
 
-- [114.二叉树展开为链表【中等】【树、深度优先搜索】](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/)
+#### [114.二叉树展开为链表【中等】【树、深度优先搜索】](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/)
 
 给定一个二叉树，[原地](https://baike.baidu.com/item/原地算法/8010757)将它展开为一个单链表。
 
@@ -1531,7 +1531,7 @@ class FlattenBinaryTreeToLinkedList {
 
 
 
-- [199.二叉树的右视图【中等】【树、深度优先搜索、宽度优先搜索】](https://leetcode-cn.com/problems/binary-tree-right-side-view/)
+#### [199.二叉树的右视图【中等】【树、深度优先搜索、宽度优先搜索】](https://leetcode-cn.com/problems/binary-tree-right-side-view/)
 
 给定一棵二叉树，想象自己站在它的右侧，按照从顶部到底部的顺序，返回从右侧所能看到的节点值。
 
@@ -1576,7 +1576,7 @@ class BinaryTreeRightSideView {
 
 
 
-- [207.课程表【中等】【深度优先搜索、广度优先搜索、图、拓扑排序】](https://leetcode-cn.com/problems/course-schedule/)
+#### [207.课程表【中等】【深度优先搜索、广度优先搜索、图、拓扑排序】](https://leetcode-cn.com/problems/course-schedule/)
 
 你这个学期必须选修 numCourse 门课程，记为 0 到 numCourse-1 。在选修某些课程之前需要一些先修课程。 例如，想要学习课程 0 ，你需要先完成课程 1 ，我们用一个匹配来表示他们：[0,1]，给定课程总量以及它们的先决条件，请你判断是否可能完成所有课程的学习？
 
@@ -1656,7 +1656,7 @@ int binarySearch(int[] nums, int target) {
 
 
 
-- [35.搜索插入位置【简单】【数组、二分查找】](https://leetcode-cn.com/problems/search-insert-position/)
+#### [35.搜索插入位置【简单】【数组、二分查找】](https://leetcode-cn.com/problems/search-insert-position/)
 
 给定一个排序数组和一个目标值，在数组中找到目标值，并返回其索引。如果目标值不存在于数组中，返回它将会被按顺序插入的位置。
 
@@ -1687,7 +1687,7 @@ class SearchInsertPosition {
 
 
 
-- [34.在排序数组中查找元素的第一个和最后一个位置【中等】【数组、二分查找】](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+#### [34.在排序数组中查找元素的第一个和最后一个位置【中等】【数组、二分查找】](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 
 给定一个按照升序排列的整数数组 nums，和一个目标值 target。找出给定目标值在数组中的开始位置和结束位置。
 
@@ -1740,7 +1740,7 @@ class FindFirstAndLastPositionOfElementInSortedArray {
 
 
 
-- [33.搜索旋转排序数组【中等】【数组、二分查找】](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)
+#### [33.搜索旋转排序数组【中等】【数组、二分查找】](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)
 
 假设按照升序排序的数组在预先未知的某个点上进行了旋转。( 例如，数组 [0,1,2,4,5,6,7] 可能变为 [4,5,6,7,0,1,2] )。搜索一个给定的目标值，如果数组中存在这个目标值，则返回它的索引，否则返回 -1 。
 
@@ -1778,7 +1778,7 @@ class SearchInRotatedSortedArray {
 
 
 
-- [297.二叉树的序列化与反序列化【困难】【树、设计】](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/)
+#### [297.二叉树的序列化与反序列化【困难】【树、设计】](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/)
 
 序列化是将一个数据结构或者对象转换为连续的比特位的操作，进而可以将转换后的数据存储在一个文件或者内存中，同时也可以通过网络传输到另一个计算机环境，采取相反方式重构得到原数据。
 
@@ -1828,7 +1828,7 @@ public class SerializeAndDeserializeBinaryTree {
 
 ## 哈希表与字符串
 
-- [5.最长回文子串【中等】【字符串、动态规划】](https://leetcode-cn.com/problems/longest-palindromic-substring/)
+#### [5.最长回文子串【中等】【字符串、动态规划】](https://leetcode-cn.com/problems/longest-palindromic-substring/)
 
 给定一个字符串 `s`，找到 `s` 中最长的回文子串。你可以假设 `s` 的最大长度为 1000。
 
@@ -1912,7 +1912,7 @@ class LongestPalindromicSubstring {
 
 
 
-- [290.单词规律【简单】【哈希表】](https://leetcode-cn.com/problems/word-pattern/)
+#### [290.单词规律【简单】【哈希表】](https://leetcode-cn.com/problems/word-pattern/)
 
 给定一种规律 pattern 和一个字符串 str ，判断 str 是否遵循相同的规律。
 
@@ -1948,7 +1948,7 @@ class WordPattern {
 
 
 
-- [49.字母异位词分组【中等】【哈希表、字符串】](https://leetcode-cn.com/problems/group-anagrams/)
+#### [49.字母异位词分组【中等】【哈希表、字符串】](https://leetcode-cn.com/problems/group-anagrams/)
 
 给定一个字符串数组，将字母异位词组合在一起。字母异位词指字母相同，但排列不同的字符串。
 
@@ -2011,7 +2011,7 @@ class GroupAnagrams {
 
 
 
-- [3.无重复字符的最长子串【中等】【哈希表、双指针、字符串、SlidingWindow】](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
+#### [3.无重复字符的最长子串【中等】【哈希表、双指针、字符串、SlidingWindow】](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
 
 给定一个字符串，请你找出其中不含有重复字符的 **最长子串** 的长度。
 
@@ -2039,7 +2039,7 @@ class LongestSubstringWithoutRepeatingCharacters {
 
 
 
-- [187.重复的DNA序列【中等】【位运算、哈希表】](https://leetcode-cn.com/problems/repeated-dna-sequences/)
+#### [187.重复的DNA序列【中等】【位运算、哈希表】](https://leetcode-cn.com/problems/repeated-dna-sequences/)
 
 所有 DNA 都由一系列缩写为 A，C，G 和 T 的核苷酸组成，例如：“ACGAATTCCG”。在研究 DNA 时，识别 DNA 中的重复序列有时会对研究非常有帮助。
 
@@ -2114,7 +2114,7 @@ class RepeatedDnaSequences {
 
 
 
-- [76.最小覆盖子串【困难】【哈希表、双指针、字符串、SlidingWindow】](https://leetcode-cn.com/problems/minimum-window-substring/)
+#### [76.最小覆盖子串【困难】【哈希表、双指针、字符串、SlidingWindow】](https://leetcode-cn.com/problems/minimum-window-substring/)
 
 给你一个字符串 S、一个字符串 T，请在字符串 S 里面找出：包含 T 所有字符的最小子串。
 
@@ -2173,7 +2173,7 @@ class MinimumWindowSubstring {
 
 
 ## 搜索
-- [200.岛屿数量【中等】【深度优先搜索、宽度优先搜索、并查集】](https://leetcode-cn.com/problems/number-of-islands/)
+#### [200.岛屿数量【中等】【深度优先搜索、宽度优先搜索、并查集】](https://leetcode-cn.com/problems/number-of-islands/)
 
 给你一个由 '1'（陆地）和 '0'（水）组成的的二维网格，请你计算网格中岛屿的数量。岛屿总是被水包围，并且每座岛屿只能由水平方向或竖直方向上相邻的陆地连接形成。此外，你可以假设该网格的四条边均被水包围。
 
@@ -2231,7 +2231,7 @@ class NumberOfIslands {
 
 
 
-- [127.单词接龙【中等】【广度优先搜索】](https://leetcode-cn.com/problems/word-ladder/)
+#### [127.单词接龙【中等】【广度优先搜索】](https://leetcode-cn.com/problems/word-ladder/)
 
 给定两个单词（beginWord 和 endWord）和一个字典，找到从 beginWord 到 endWord 的最短转换序列的长度。转换需遵循如下规则：
 
@@ -2363,7 +2363,7 @@ class WordLadder {
 
 
 
-- [126.单词接龙2【困难】【广度优先搜索、数组、字符串、回溯算法】](https://leetcode-cn.com/problems/word-ladder-ii/)
+#### [126.单词接龙2【困难】【广度优先搜索、数组、字符串、回溯算法】](https://leetcode-cn.com/problems/word-ladder-ii/)
 
 给定两个单词（beginWord 和 endWord）和一个字典 wordList，找出所有从 beginWord 到 endWord 的最短转换序列。转换需遵循如下规则：
 
@@ -2462,7 +2462,7 @@ class WordLadder2 {
 
 
 
-- [473.火柴拼正方形【中等】【深度优先搜索】](https://leetcode-cn.com/problems/matchsticks-to-square/)
+#### [473.火柴拼正方形【中等】【深度优先搜索】](https://leetcode-cn.com/problems/matchsticks-to-square/)
 
 还记得童话《卖火柴的小女孩》吗？现在，你知道小女孩有多少根火柴，请找出一种能使用所有火柴拼成一个正方形的方法。不能折断火柴，可以把火柴连接起来，并且每根火柴都要用到。
 
@@ -2526,7 +2526,7 @@ class MatchsticksToSquare {
 
 
 
-- [407.接雨水2【困难】【堆、广度优先搜索】](https://leetcode-cn.com/problems/trapping-rain-water-ii/)
+#### [407.接雨水2【困难】【堆、广度优先搜索】](https://leetcode-cn.com/problems/trapping-rain-water-ii/)
 
 给你一个 `m x n` 的矩阵，其中的值均为非负整数，代表二维高度图每个单元的高度，请计算图中形状最多能接多少体积的雨水。
 
@@ -2544,7 +2544,7 @@ class MatchsticksToSquare {
 
 
 
-- [70.爬楼梯【简单】【动态规划】](https://leetcode-cn.com/problems/climbing-stairs/)
+#### [70.爬楼梯【简单】【动态规划】](https://leetcode-cn.com/problems/climbing-stairs/)
 
 假设你正在爬楼梯。需要 *n* 阶你才能到达楼顶。
 
@@ -2576,7 +2576,7 @@ class ClimbingStairs {
 
 
 
-- [198.打家劫舍【简单】【动态规划】](https://leetcode-cn.com/problems/house-robber/)
+#### [198.打家劫舍【简单】【动态规划】](https://leetcode-cn.com/problems/house-robber/)
 
 你是一个专业的小偷，计划偷窃沿街的房屋。每间房内都藏有一定的现金，影响你偷窃的唯一制约因素就是相邻的房屋装有相互连通的防盗系统，如果两间相邻的房屋在同一晚上被小偷闯入，系统会自动报警。
 
@@ -2608,7 +2608,7 @@ class HouseRobber {
 
 
 
-- [53.最大子序和【简单】【数组、分治算法、动态规划】](https://leetcode-cn.com/problems/maximum-subarray/)
+#### [53.最大子序和【简单】【数组、分治算法、动态规划】](https://leetcode-cn.com/problems/maximum-subarray/)
 
 给定一个整数数组 `nums` ，找到一个具有最大和的连续子数组（子数组最少包含一个元素），返回其最大和。
 
@@ -2632,7 +2632,7 @@ class MaximumSubarray {
 
 
 
-- [322.零钱兑换【中等】【动态规划】](https://leetcode-cn.com/problems/coin-change/)
+#### [322.零钱兑换【中等】【动态规划】](https://leetcode-cn.com/problems/coin-change/)
 
 给定不同面额的硬币 coins 和一个总金额 amount。编写一个函数来计算可以凑成总金额所需的最少的硬币个数。如果没有任何一种硬币组合能组成总金额，返回 -1。
 
@@ -2708,7 +2708,7 @@ public class CoinChange {
 
 
 
-- [120.三角形最小路径和【中等】【数组、动态规划】](https://leetcode-cn.com/problems/triangle/)
+#### [120.三角形最小路径和【中等】【数组、动态规划】](https://leetcode-cn.com/problems/triangle/)
 
 给定一个三角形，找出自顶向下的最小路径和。每一步只能移动到下一行中相邻的结点上。
 
@@ -2734,7 +2734,7 @@ class Triangle {
 
 
 
-- [300.最长上升子序列【中等】【二分查找、动态规划】](https://leetcode-cn.com/problems/longest-increasing-subsequence/)
+#### [300.最长上升子序列【中等】【二分查找、动态规划】](https://leetcode-cn.com/problems/longest-increasing-subsequence/)
 
 给定一个无序的整数数组，找到其中最长上升子序列的长度。
 
@@ -2792,7 +2792,7 @@ class LongestIncreasingSubsequence {
 
 
 
-- [64.最小路径和【中等】【数组、动态规划】](https://leetcode-cn.com/problems/minimum-path-sum/)
+#### [64.最小路径和【中等】【数组、动态规划】](https://leetcode-cn.com/problems/minimum-path-sum/)
 
 给定一个包含非负整数的 *m* x *n* 网格，请找出一条从左上角到右下角的路径，使得路径上的数字总和为最小。
 
@@ -2823,7 +2823,7 @@ class MinimumPathSum {
 
 
 
-- [174.地下城游戏【困难】【二分查找、动态规划】](https://leetcode-cn.com/problems/dungeon-game/)
+#### [174.地下城游戏【困难】【二分查找、动态规划】](https://leetcode-cn.com/problems/dungeon-game/)
 
 一些恶魔抓住了公主（P）并将她关在了地下城的右下角。地下城是由 M x N 个房间组成的二维网格。我们英勇的骑士（K）最初被安置在左上角的房间里，他必须穿过地下城并通过对抗恶魔来拯救公主。
 
@@ -2880,7 +2880,7 @@ class DungeonGame {
 
 ## 高级数据结构
 trie树（字典树）、并查集、线段树。
-- [208.实现trie（前缀树）【中等】【设计、字典树】](https://leetcode-cn.com/problems/implement-trie-prefix-tree/)
+#### [208.实现trie（前缀树）【中等】【设计、字典树】](https://leetcode-cn.com/problems/implement-trie-prefix-tree/)
 
 实现一个 Trie (前缀树)，包含 `insert`, `search`, 和 `startsWith` 这三个操作。
 
@@ -2979,7 +2979,7 @@ class Trie {
 
 
 
-- [211.添加与搜索单词-数据结构设计【中等】【设计、字典树、回溯算法】](https://leetcode-cn.com/problems/add-and-search-word-data-structure-design/)
+#### [211.添加与搜索单词-数据结构设计【中等】【设计、字典树、回溯算法】](https://leetcode-cn.com/problems/add-and-search-word-data-structure-design/)
 
 设计一个支持以下两种操作的数据结构：
 
@@ -3088,7 +3088,7 @@ class WordDictionary {
 
 
 
-- [547.朋友圈【中等】【深度优先搜索、并查集】](https://leetcode-cn.com/problems/friend-circles/)
+#### [547.朋友圈【中等】【深度优先搜索、并查集】](https://leetcode-cn.com/problems/friend-circles/)
 
 班上有 N 名学生。其中有些人是朋友，有些则不是。他们的友谊具有是传递性。如果已知 A 是 B 的朋友，B 是 C 的朋友，那么我们可以认为 A 也是 C 的朋友。所谓的朋友圈，是指所有朋友的集合。
 
@@ -3205,7 +3205,7 @@ class FriendCircles {
 
 
 
-- [303.区域和的检索【中等】【动态规划、线段树】](https://leetcode-cn.com/problems/range-sum-query-immutable/)
+#### [303.区域和的检索【中等】【动态规划、线段树】](https://leetcode-cn.com/problems/range-sum-query-immutable/)
 
 给定一个整数数组  *nums*，求出数组从索引 *i* 到 *j* (*i* ≤ *j*) 范围内元素的总和，包含 *i, j* 两点。
 
