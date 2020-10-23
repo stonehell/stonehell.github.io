@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "LeetCode BFS"
-date:       2020-10-24 19:00:00
+date:       2020-10-22 19:00:00
 author:     "SH"
 header-img: "img/post_bg_headset.jpg"
 header-mask: 0.3
