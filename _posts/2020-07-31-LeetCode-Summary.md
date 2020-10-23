@@ -2183,49 +2183,48 @@ class MinimumWindowSubstring {
 
 ```java
 class NumberOfIslands {
-    boolean[][] mark;
-    // grid 的行数、列数
-    private int rows, cols;
-    // 方向数组，表示相对于当前位置的 4 个方向的横、纵坐标的偏移量，这是一个常见的技巧
-    private static final int[][] DIRECTIONS = new int[][]{{-1, 0}, {0, -1}, {1, 0}, {0, 1}};
-
-    // 判断范围合法
-    private boolean inGrid(int row, int col) {
-        return row >= 0 && row < rows && col >= 0 && col < cols;
-    }
-
-    private void dfs(int i, int j, char[][] grid) {
-        mark[i][j] = true;
-        // 得到 4 个方向的坐标
-        for (int k = 0; k < 4; k++) {
-            int newRow = i + DIRECTIONS[k][0];
-            int newCol = j + DIRECTIONS[k][1];
-            // 如果不越界、没有被访问过、并且还要是陆地
-            if (inGrid(newRow, newCol) && grid[newRow][newCol] == '1' && !mark[newRow][newCol]) {
-                dfs(newRow, newCol, grid);
-            }
-
-        }
-    }
-
     public int numIslands(char[][] grid) {
-        if (grid.length == 0) {
+        if (grid == null || grid.length == 0) {
             return 0;
         }
-        int res = 0;
-        rows = grid.length;
-        cols = grid[0].length;
-        mark = new boolean[rows][cols];
-        for (int i = 0; i < rows; i++) {
-            for (int j = 0; j < cols; j++) {
-                // 如果是岛屿中的一个点，并且没有被访问过，就进行深度优先遍历
-                if (!mark[i][j] && grid[i][j] == '1') {
-                    res++;
-                    dfs(i, j, grid);
+        int num = 0;
+        int h = grid.length;
+        int w = grid[0].length;
+        boolean[][] visited = new boolean[h][w];
+        for (int i = 0; i < h; i++) {
+            for (int j = 0; j < w; j++) {
+                if (grid[i][j] == '1' && !visited[i][j]) {
+                    num++;
+                    visited[i][j] = true;
+                    Queue<Integer> queue = new LinkedList<>();
+                    queue.add(i * w + j);
+                    while (!queue.isEmpty()) {
+                        // 当前位置
+                        int cur = queue.poll();
+                        int row = cur / w;
+                        int col = cur % w;
+                        // 当前位置4个方向遍历
+                        if (row - 1 >= 0 && grid[row - 1][col] == '1' && !visited[row - 1][col]) {
+                            queue.add((row - 1) * w + col);
+                            visited[row - 1][col] = true;
+                        }
+                        if (row + 1 < h && grid[row + 1][col] == '1' && !visited[row + 1][col]) {
+                            queue.add((row + 1) * w + col);
+                            visited[row + 1][col] = true;
+                        }
+                        if (col - 1 >= 0 && grid[row][col - 1] == '1' && !visited[row][col - 1]) {
+                            queue.add(row * w + col - 1);
+                            visited[row][col - 1] = true;
+                        }
+                        if (col + 1 < w && grid[row][col + 1] == '1' && !visited[row][col + 1]) {
+                            queue.add(row * w + col + 1);
+                            visited[row][col + 1] = true;
+                        }
+                    }
                 }
             }
         }
-        return res;
+        return num;
     }
 }
 ```
