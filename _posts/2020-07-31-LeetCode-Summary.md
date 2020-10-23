@@ -2187,7 +2187,7 @@ class NumberOfIslands {
     // grid 的行数、列数
     private int rows, cols;
     // 方向数组，表示相对于当前位置的 4 个方向的横、纵坐标的偏移量，这是一个常见的技巧
-    private static final int[][] DIRECTIONS = {{-1, 0}, {0, -1}, {1, 0}, {0, 1}};
+    private static final int[][] DIRECTIONS = new int[][]{{-1, 0}, {0, -1}, {1, 0}, {0, 1}};
 
     // 判断范围合法
     private boolean inGrid(int row, int col) {
