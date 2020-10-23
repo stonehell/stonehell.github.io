@@ -36,7 +36,7 @@ LINE：青浦--人民广场--上海博物馆--城隍庙--豫园--外滩--LuckinC
 
 人民广场下地铁，一共二十个出口，果然厉害。
 
-![img](D:\Project\GitPages\stonehell.github.io\img\TOUR\ShangHai\人民广场站.png)
+![img](/img/TOUR/ShangHai/人民广场站.png)
 
 公园里面的相亲，很多大爷大妈在为自己的娃找对象啊。
 
@@ -44,25 +44,25 @@ LINE：青浦--人民广场--上海博物馆--城隍庙--豫园--外滩--LuckinC
 
 旁边的上海博物馆楼顶的空中花园，已经能看见对面的上海之巅了。
 
-![img](D:\Project\GitPages\stonehell.github.io\img\TOUR\ShangHai\上海博物馆楼顶的空中花园.png)
+![img](/img/TOUR/ShangHai/上海博物馆楼顶的空中花园.png)
 
 
 
 豫园。有假山，有花园，有戏台，有亭子，有长廊，真的大户人家啊。在假山边看见了四叶草，这好像是第一次见吧，小的那一叶似乎才长出来哎，真的是幸运咯哈哈。
 
-![img](D:\Project\GitPages\stonehell.github.io\img\TOUR\ShangHai\四叶草.png)
+![img](/img/TOUR/ShangHai/四叶草.png)
 
 
 
 外滩啊，电视里的画面终于出现在眼前。
 
-![img](D:\Project\GitPages\stonehell.github.io\img\TOUR\ShangHai\外滩.png)
+![img](/img/TOUR/ShangHai/外滩.png)
 
 
 
 这个桥也看见了瑟。
 
-![img](D:\Project\GitPages\stonehell.github.io\img\TOUR\ShangHai\钢桥.png)
+![img](/img/TOUR/ShangHai/钢桥.png)
 
 
 
@@ -80,19 +80,19 @@ LINE：青浦--人民广场--上海博物馆--城隍庙--豫园--外滩--LuckinC
 
 坐地铁到江对面，去大楼下面逛了一圈，真的好高啊。
 
-![img](D:\Project\GitPages\stonehell.github.io\img\TOUR\ShangHai\三个高楼.png)
+![img](/img/TOUR/ShangHai/三个高楼.png)
 
 
 
 感觉东方明珠不怎么好看呀。
 
-![img](D:\Project\GitPages\stonehell.github.io\img\TOUR\ShangHai\东方明珠.png)
+![img](/img/TOUR/ShangHai/东方明珠.png)
 
 
 
 在这边看外滩的夜景，也没有电视中的那么壮观，拍摄技术很重要啊。
 
-![img](D:\Project\GitPages\stonehell.github.io\img\TOUR\ShangHai\外滩夜景.png)
+![img](/img/TOUR/ShangHai/外滩夜景.png)
 
 
 
@@ -104,9 +104,9 @@ LINE：青浦--人民广场--上海博物馆--城隍庙--豫园--外滩--LuckinC
 
 最后来个浦发银行白天夜晚的对比图。
 
-![img](D:\Project\GitPages\stonehell.github.io\img\TOUR\ShangHai\浦发银行-白天)
+![img](/img/TOUR/ShangHai/浦发银行-白天)
 
-![img](D:\Project\GitPages\stonehell.github.io\img\TOUR\ShangHai\浦发银行-夜景.png)
+![img](/img/TOUR/ShangHai/浦发银行-夜景.png)
 
 
 
