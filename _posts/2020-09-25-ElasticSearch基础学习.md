@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "ElasticSearch基础学习"
+title:      "ElasticSearch 基础学习"
 date:       2020-09-25 19:00:00
 author:     "SH"
 header-img: "img/post_bg_headset.jpg"

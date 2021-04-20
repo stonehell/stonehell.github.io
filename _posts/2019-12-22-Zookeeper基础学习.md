@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Zookeeper基础学习"
+title:      "Zookeeper 基础学习"
 date:       2019-12-22 19:00:00
 author:     "SH"
 header-img: "img/post_bg_headset.jpg"

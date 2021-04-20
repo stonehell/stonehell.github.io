@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Spring Cloud基础学习"
+title:      "Spring Cloud 基础学习"
 date:       2019-07-16 15:00:00
 author:     "SH"
 header-img: "img/post_bg_headset.jpg"

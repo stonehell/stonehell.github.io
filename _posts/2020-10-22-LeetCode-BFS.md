@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "LeetCode BFS"
+title:      "LeetCode BFS广度优先搜索"
 date:       2020-10-22 19:00:00
 author:     "SH"
 header-img: "img/post_bg_headset.jpg"
