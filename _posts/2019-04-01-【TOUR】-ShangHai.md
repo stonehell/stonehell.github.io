@@ -1,7 +1,6 @@
 ---
 layout:     post
 title:      "【TOUR】 ShangHai"
-subtitle:   "魔都。"
 date:       2019-04-01 19:00:00
 author:     "SH"
 header-img: "img/TOUR/ShangHai/外滩夜景.png"
