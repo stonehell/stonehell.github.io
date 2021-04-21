@@ -20,5 +20,3 @@ LINE：青浦--人民广场--上海博物馆--城隍庙--豫园--外滩--四川�
 
 ![img](/img/TOUR/ShangHai/外滩.png)
 
-
-![img](/img/TOUR/ShangHai/外滩夜景.png)
