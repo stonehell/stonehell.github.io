@@ -1,9 +1,10 @@
 ---
 layout:     post
 title:      "【TOUR】 ShangHai"
+subtitle:   "魔都。"
 date:       2019-04-01 19:00:00
 author:     "SH"
-header-img: "/img/TOUR/ShangHai/外滩夜景.png"
+header-img: "img/TOUR/ShangHai/外滩夜景.png"
 header-mask: 0.3
 catalog:    true
 tags:
@@ -18,15 +19,6 @@ LINE：青浦--人民广场--上海博物馆--城隍庙--豫园--外滩--四川�
 
 
 ![img](/img/TOUR/ShangHai/外滩.png)
-
-
-
-![img](/img/TOUR/ShangHai/三个高楼.png)
-
-
-
-![img](/img/TOUR/ShangHai/东方明珠.png)
-
 
 
 ![img](/img/TOUR/ShangHai/外滩夜景.png)
