@@ -12,6 +12,6 @@ tags:
 ---
 
 
-❤❤❤。
+:two_hearts:。
 
 ![img](/img/TOUR/ChongQing/fukan.jpg)
