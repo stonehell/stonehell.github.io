@@ -11,7 +11,6 @@ tags:
 ---
 
 牛客网编程练习-剑指offer，python实现。
-[github链接](https://github.com/stormstone/FindAJob/tree/master/ProgrammingExercises)
 
 
 ### 1.【链表】从尾到头打印链表
