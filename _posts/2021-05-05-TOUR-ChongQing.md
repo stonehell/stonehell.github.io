@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "【TOUR】 ChongQing"
+title:      "TOUR - ChongQing"
 date:       2021-05-05 22:00:00
 author:     "SH"
 header-img: "img/TOUR/ChongQing/puzi.jpg"

@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "【TOUR】 YunNan"
+title:      "TOUR - YunNan"
 date:       2020-10-08 22:00:00
 author:     "SH"
 header-img: "img/TOUR/YunNan/bj.jpg"

@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "【TOUR】 HaErBin"
+title:      "TOUR - HaErBin"
 date:       2021-01-02 22:00:00
 author:     "SH"
 header-img: "img/TOUR/HaErBin/qiao.jpg"

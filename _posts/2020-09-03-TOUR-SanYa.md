@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "【TOUR】 SanYa"
+title:      "TOUR - SanYa"
 date:       2020-09-03 22:00:00
 author:     "SH"
 header-img: "img/TOUR/SanYa/bj.jpg"
