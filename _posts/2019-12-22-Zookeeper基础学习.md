@@ -16,13 +16,6 @@ tags:
 - [https://zookeeper.apache.org/](https://zookeeper.apache.org/)
 - [https://github.com/apache/zookeeper](https://github.com/apache/zookeeper)
 
-资料：
-- [深入浅出 ZooKeeper-vivo互联网技术](https://mp.weixin.qq.com/s?__biz=MzI4NjY4MTU5Nw==&mid=2247488750&idx=3&sn=046f8423d9622ed08737799d4b416d7b)
-- [详解分布式协调服务 ZooKeeper](https://draveness.me/zookeeper-chubby/)
-- [再谈基于 Kafka 和 ZooKeeper 的分布式消息队列原理](https://gitbook.cn/books/5bc446269a9adf54c7ccb8bc/index.html)
-- [聊聊Zookeeper之会话机制Session](https://juejin.cn/post/6844904196580311053)
-- [https://github.com/qiurunze123/zookeeperDesign](https://github.com/qiurunze123/zookeeperDesign)
-
 
 zk核心：
 - [ZooKeeper Programmer's Guide](https://zookeeper.apache.org/doc/current/zookeeperProgrammers.html)
@@ -347,6 +340,9 @@ Zab 协议增加了崩溃恢复的功能，当 Leader 服务器不可用，或�
 - [腾讯技术工程-ZooKeeper 源码和实践揭秘](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649745966&idx=1&sn=50a6b9892783b9509c02ac0db0f4167e)
 - [Raft算法动画演示](http://thesecretlivesofdata.com/raft/)
 - [分布式一致性算法-Paxos、Raft、ZAB、Gossip](https://zhuanlan.zhihu.com/p/130332285)
-
-
+- [深入浅出 ZooKeeper-vivo互联网技术](https://mp.weixin.qq.com/s?__biz=MzI4NjY4MTU5Nw==&mid=2247488750&idx=3&sn=046f8423d9622ed08737799d4b416d7b)
+- [详解分布式协调服务 ZooKeeper](https://draveness.me/zookeeper-chubby/)
+- [再谈基于 Kafka 和 ZooKeeper 的分布式消息队列原理](https://gitbook.cn/books/5bc446269a9adf54c7ccb8bc/index.html)
+- [聊聊Zookeeper之会话机制Session](https://juejin.cn/post/6844904196580311053)
+- [https://github.com/qiurunze123/zookeeperDesign](https://github.com/qiurunze123/zookeeperDesign)
 
